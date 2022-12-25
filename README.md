@@ -56,6 +56,5 @@
     ├── data                             # промежуточные датасеты
     │   ├── images                       # изображения рентгеновских снимков       
     │   └── xrays_data.csv               # информация о снимках              
-    ├── xrays_data_gathering.ipynb # ноутбук, блок сбора данных
-    ├── xrays_visualisation.ipynb # ноутбук, блок визуализации
+    ├── xrays_dataton.ipynb              # ноутбук
     └── README.md
